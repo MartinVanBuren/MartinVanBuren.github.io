@@ -232,6 +232,7 @@ border-left: 1px solid #D7D7D7;
 	border: 2px solid #130F4A;
 	color: #130F4A;
 	box-sizing: border-box;
+	font-weight: 500;
 }
 .container .content .wrapper header ul .button button.my-office span{
 	position: relative;	
@@ -252,7 +253,6 @@ border-left: 1px solid #D7D7D7;
 	border: 1px solid #6A6A6A;
 	box-sizing: border-box;
 	background-color: #ffffff;
-	font-weight: 500;
 	font-size: 18px;
 	color: #6A6A6A;
 	width: 70%;
@@ -261,6 +261,7 @@ border-left: 1px solid #D7D7D7;
 .container .content .wrapper header ul .button button.feedback:hover{
 	border: 2px solid #130F4A;
 	color: #130F4A;
+	font-weight: 500;
 }
 .container .content .wrapper nav{
 	padding-right: 40px;
