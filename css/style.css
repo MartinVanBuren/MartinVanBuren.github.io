@@ -212,7 +212,7 @@ border-left: 1px solid #D7D7D7;
 	display: inline-flex;
 	justify-content: center;
 	flex-direction: column;
-	align-content: center;
+	align-items: center;
 }
 .container .content .wrapper header ul .button button{
 	border-radius: 25px;
@@ -227,9 +227,7 @@ border-left: 1px solid #D7D7D7;
 	font-size: 20px;
 	color: #6A6A6A;
 }
-.container .content .wrapper header ul .button a{
-	text-align: center;
-}
+
 .container .content .wrapper header ul .button button.my-office:hover{
 	border: 2px solid #130F4A;
 	color: #130F4A;
@@ -258,6 +256,7 @@ border-left: 1px solid #D7D7D7;
 	font-size: 18px;
 	color: #6A6A6A;
 	width: 70%;
+	margin-top: 16px;
 }
 .container .content .wrapper header ul .button button.feedback:hover{
 	border: 2px solid #130F4A;
