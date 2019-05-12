@@ -609,7 +609,16 @@
 		margin-bottom: 0;
 	}
 	.container .content .wrapper .brand .hit-slider .slick-active.first-brand{
-		margin-right: 30px;
+		margin-left: 50px;
+	}
+	.container .content .wrapper .brand .hit-slider .fourth-brand {
+    	margin-left: 0px;
+	}
+	.container .content .wrapper .brand .hit-slider .fifth-brand {
+    	margin-right: 0px;
+	}
+	.container .content .wrapper .brand .hit-slider .slick-slide {
+    	
 	}
 	.container .content .wrapper .brand .hit-slider .slick-next{
 		top: 150px;
