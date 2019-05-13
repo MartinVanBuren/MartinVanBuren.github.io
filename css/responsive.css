@@ -328,6 +328,9 @@
 		width: 13%;
 		top: 15px;
 	}
+	.container .content .wrapper header ul .logotype div img{
+		width: 70%;
+	}
 	.container .content .wrapper header ul .contact{
 		white-space: normal;
 		width: 27%;
@@ -673,6 +676,11 @@
 	.container .content footer .footer-wrapper .footer-top .footer-top-left .footer-top-left_contacts .social{
 		margin-top: 13px;
 	}
+	.container .content footer .footer-wrapper .footer-top .footer-top-right{
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+	}
 	.container .content footer .footer-wrapper .footer-top .footer-top-right .phones p span{
 		font-size: 12px;
 	}
@@ -681,9 +689,17 @@
 	}
 	.container .content footer .footer-wrapper .footer-top .footer-top-right .phones{
 		width: 250px;
+		margin-right: 0;
 	}
 	.container .content footer .footer-wrapper .footer-top .footer-top-right .logotype{
 		margin-left: 0;
+		margin-top: 8px;
+	}
+	.container .content footer .footer-wrapper .footer-top .footer-top-right .logotype a{
+		margin-left: 40px;
+	}
+	.container .content footer .footer-wrapper .footer-top .footer-top-right .logotype p{
+		margin-left: 49px;
 	}
 	.container .content footer .footer-wrapper .footer-bottom{
 		font-size: 12px;
